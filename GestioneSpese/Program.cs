@@ -1,0 +1,3 @@
+﻿using GestioneSpese;
+
+Menu.Start();
